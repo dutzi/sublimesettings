@@ -1,0 +1,22 @@
+{
+	"auto_upgrade_last_run": null,
+	"installed_packages":
+	[
+		"AngularJS",
+		"Bootstrap 3 Snippets",
+		"BracketHighlighter",
+		"CoffeeScript",
+		"DocBlockr",
+		"Emmet",
+		"Inc-Dec-Value",
+		"Inline Calculator",
+		"JSONLint",
+		"LESS",
+		"Package Control",
+		"Sass",
+		"SublimeLinter",
+		"Text Pastry",
+		"Theme - Soda",
+		"ZenCoding"
+	]
+}

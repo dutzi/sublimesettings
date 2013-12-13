@@ -1,0 +1,8 @@
+{
+	"jshint_options": {
+		"multistr" : true
+	}, 
+	"csslint_options": {
+		"adjoining-classes": "false"
+	}
+}

@@ -1,0 +1,30 @@
+{
+	"history":
+	{
+		"150886623154470087":
+		{
+			"command": "insert_nums",
+			"date": 1372163918.29,
+			"label": "\\i0",
+			"separator": null,
+			"text": "0 1 1"
+		},
+		"7880550187830335718":
+		{
+			"command": "insert_nums",
+			"date": 1372163697.23,
+			"label": "\\i",
+			"separator": null,
+			"text": "1 1 1"
+		}
+	},
+	"last_command":
+	{
+		"command": "insert_nums",
+		"index": 2,
+		"key": "150886623154470087",
+		"label": "\\i0",
+		"separator": null,
+		"text": "0 1 1"
+	}
+}
